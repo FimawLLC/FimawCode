@@ -29,14 +29,15 @@
 
 ## 📥 Downloads & Releases
 
-Ready-to-install desktop releases and updates are published under [**Releases**](https://github.com/FimawLLC/FimawCode/releases):
+Ready-to-install desktop releases and standalone packages are available under [**Releases**](https://github.com/FimawLLC/FimawCode/releases):
 
-| Operating System | Package Format | Download Link |
-| :--- | :--- | :--- |
-| **Windows** | .exe (Installer) | [Latest Windows Installer](https://github.com/FimawLLC/FimawCode/releases) |
-| **macOS (Apple Silicon)** | .dmg | [Latest macOS arm64](https://github.com/FimawLLC/FimawCode/releases) |
-| **macOS (Intel)** | .dmg | [Latest macOS x64](https://github.com/FimawLLC/FimawCode/releases) |
-| **Linux** | .AppImage | [Latest Linux AppImage](https://github.com/FimawLLC/FimawCode/releases) |
+| Operating System | Package Format | Download Link | Status |
+| :--- | :--- | :--- | :--- |
+| **Windows (x64)** | .exe (Installer Wizard) | [Download Installer (v0.2.2-alpha.2)](https://github.com/FimawLLC/FimawCode/releases/download/v0.2.2-alpha.2/fimawcode-0.2.2-alpha.2-win-x64-unsigned.exe) | ✅ Live |
+| **Windows (x64)** | .zip (Portable Edition) | [Download Portable ZIP (v0.2.2-alpha.2)](https://github.com/FimawLLC/FimawCode/releases/download/v0.2.2-alpha.2/fimawcode-0.2.2-alpha.2-win-x64-portable.zip) | ✅ Live |
+| **macOS (Apple Silicon)** | .dmg | [Latest macOS arm64](https://github.com/FimawLLC/FimawCode/releases) | 📦 Release Pipeline |
+| **macOS (Intel)** | .dmg | [Latest macOS x64](https://github.com/FimawLLC/FimawCode/releases) | 📦 Release Pipeline |
+| **Linux** | .AppImage | [Latest Linux AppImage](https://github.com/FimawLLC/FimawCode/releases) | 📦 Release Pipeline |
 
 ---
 
